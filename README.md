@@ -1,4 +1,4 @@
-# Fractpy
+# FractPy - Generating Fractals using Newton's Method
 
 A fractal can be described as a complicated geometrical figure that unlike a conventional complicated figure does not simplify when magnified. Some of the properties of fractals are that it is self similar and has an intricate detailed structure. There are many techniques to generate fractals, one of which is the Newton Fractal, a type of escape-time fractal.
 
